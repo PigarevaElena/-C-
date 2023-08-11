@@ -50,3 +50,24 @@ else
 {
     Console.WriteLine($"Нет");
 }*/
+
+
+ /*Напишите программу, которая на вход принимает число (N), 
+ а на выходе показывает все чётные числа от 1 до N*/
+
+ /*Console.Write("Введите число: ");
+int number = int.Parse (Console.ReadLine());
+if (number < 2)
+{
+    Console.WriteLine ("Четных чисел нет");
+}
+else
+{
+int start = 2;
+
+while (start  <= number)
+{
+    Console.WriteLine(start + " ");
+    start += 2;
+}
+}*/
